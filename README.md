@@ -26,3 +26,5 @@ Here is an overview of the files included in the repository:
 2. ```wavelets_scatteringtransform -upload.ipynb```: Jupyter notebook file that contains the analysis done using wavelets/ scattering transform 
 
 3. ```optflow-upload.ipynb```: Jupyter notebook file that contains the analysis done using wavelets/ scattering transform 
+
+We upload the data, then perform the analysis and show the classification results obtained via each pipeline in each of the notebooks.
